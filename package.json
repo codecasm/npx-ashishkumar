@@ -1,0 +1,30 @@
+{
+  "name": "npx-ashishkumar",
+  "version": "0.0.1",
+  "description": "@dev_ashishkumar - A Senior Software Engg",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "ashishkumar": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ashishkumar",
+    "angular",
+    "codecasm"
+  ],
+  "author": "Ashishkumar Vishwakarma",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com:codecasm/npx-ashsihkumar.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^6.2.1",
+    "chalk": "^5.0.1",
+    "log-symbols": "^5.1.0",
+    "arg": "^5.0.1"
+  }
+}
